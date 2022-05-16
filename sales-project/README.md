@@ -2,7 +2,7 @@
 
 <!-- External and Project comments -->
 
-##### Repo Highlights: *ngFor, *ngIF, [ngClass], Boostrap
+##### Repo Highlights: *ngFor, *ngIF,<ng-template>, [ngClass], Boostrap
 
 #### Component
 Main player in the Angular application has two parts.
